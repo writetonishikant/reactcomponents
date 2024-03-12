@@ -1,0 +1,63 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #eeeeee;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app {
+  padding: 10px;
+  border: 1px solid #aaa;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.tabbody {
+  padding: 1px 10px 20px;
+  background-color: #eeeeee;
+}
+
+.tabs {
+    color:red
+}
+
+.education {
+  color: #ff9700;
+}
+
+.experience {
+  color: #007eff;
+}
+
+.skills {
+  color: red;
+}
+
+.common ul li {
+    border: 1px solid #aaa;
+    margin-right:20px;
+    width:300px
+}
+
+.item {
+    background: #d4d4d4;
+    margin: 10px 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: right;
+}
+.label {
+    color:#333
+}
+.skillers button{
+    margin-right:20px;
+    margin-bottom:20px;
+    padding:10px;
+    cursor:pointer
+}
+
+

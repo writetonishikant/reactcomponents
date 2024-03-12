@@ -1,0 +1,20 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display:flex /* Removing default list styles (bullets) */
+}
+
+/* Styling the list items (li) */
+ul li {
+  padding: 8px;
+  border-bottom: 1px solid #ccc; /* Adding a bottom border for separation */
+}
